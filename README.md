@@ -1,5 +1,5 @@
 # Codemod example
-This is repository for my blog post
+This is repository for my blog [post](https://blog.paulcodes.tech/all-about-abstract-syntax-tree)
 
 ## Try it out
 
